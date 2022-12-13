@@ -1,4 +1,4 @@
-# speech-emotion-recognition-software-
+# Speech-Emotion-Recognition-Software-
 
 MINI PROJECT 
 
