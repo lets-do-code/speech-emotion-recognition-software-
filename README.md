@@ -8,6 +8,7 @@ Abhijeet
 Aditya Agrawal
 Abhilash Sharma
 
+B.TECH CSE(3rd year)
 Moradabad institute of technology 
 
 Basically this project based on Machine learning.
