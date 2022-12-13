@@ -1,16 +1,26 @@
 # speech-emotion-recognition-software-
 
-Mini Project 
+MINI PROJECT 
 
-MADE BY
+MADE BY-
 
 Abhijeet
+
 Aditya Agrawal
+
 Abhilash Sharma
 
-Moradabad Institute of Technology, Moradabad 
-( B.Tech, CSE 2024)
-3rd year, session 2022-23
+B.Tech CSE 3rd year
 
-Basically this project based on Machine learning.
-We used CNN and python libraries such as librosa, pandas, numpy, sklearn and REVDASS data sets and achieved 64% accuracy on this data sets.
+Moradabad Institute of Technology, Moradabad 
+
+
+# About the project
+
+Speech Emotion Recognition, abbreviated as SER, is the act of attempting to recognize human emotion and affective states from speech.
+
+Used python libraries librosa, Keras, Pandas, Numpy and CNN ( Convolutional Neural Network) in Machine Learning.
+
+Dataset used - Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess).
+
+Achieve 64% accuracy from this model on RAVDASS dataset.
